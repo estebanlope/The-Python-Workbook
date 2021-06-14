@@ -10,7 +10,6 @@ sign and always displays exactly two decimal places.
 */
 
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main(){

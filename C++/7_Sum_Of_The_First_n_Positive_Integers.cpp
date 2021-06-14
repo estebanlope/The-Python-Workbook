@@ -6,11 +6,9 @@ n = ( n * (n + 1) ) / 2
 */
 
 #include <iostream>
-#include <string>
 using namespace std;
 
-int main()
-{
+int main(){
   // Setting Constants
   int n, sm;
 

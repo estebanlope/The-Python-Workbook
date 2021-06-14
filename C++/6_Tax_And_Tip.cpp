@@ -9,11 +9,9 @@ are displayed using two decimal places.
 */
 
 #include <iostream>
-#include <string>
 using namespace std;
 
-int main()
-{
+int main(){
   // Setting Constants
   float TAX = 0.08;
   float TIP = 0.18;
