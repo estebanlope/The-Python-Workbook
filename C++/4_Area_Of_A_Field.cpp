@@ -4,7 +4,6 @@ feet. Display the area of the field in acres.
 */
 
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main(){
