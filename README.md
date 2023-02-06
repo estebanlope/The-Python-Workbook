@@ -8,10 +8,10 @@ Exercises solved in C++: 14
 Total excercises solved: 28  
 
 ## Left
-Exercises left in python: 160  
-Exercises left in C++: 160  
+Exercises left in python: 146  
+Exercises left in C++: 146 
 
-Total exercises left: 320  
+Total exercises left: 292  
 
 ## Total
 Total exercises: 640
